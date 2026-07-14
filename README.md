@@ -5,7 +5,7 @@
 ## 前置条件
 
 - CMake >= 3.20
-- MSVC（Visual Studio 2019+，需支持 C++17）
+- MSVC（Visual Studio 2019+，需支持 C++17。注意，必须是Visual Studio C++，VS Code不行）
 - 通达信金融终端
 
 ## 编译
